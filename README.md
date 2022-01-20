@@ -2,7 +2,14 @@
 
 <div align="center">
   <a href="https://github.com/anamuratissij">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anamuratissij&show_icons=false&theme=moltack&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=anamuratissij&show_icons=false&theme=moltack&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/anamuratissij">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anamuratissij&theme=moltack&repo=github-readme-stats">
+  <a href="https://github.com/anamuratissij">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=moltack">
+  <a href="https://github.com/anamuratissij">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamuratissij&theme=moltack&layout=demo">   
+ 
 </div>
   
   
