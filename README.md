@@ -1,7 +1,4 @@
 ### hello hello, eu sou a Ana, estudante de programação e atualmente trabalho com front-end e design!
-- 🔭 I’m currently working with front-end
-- 🌱 I’m currently learning HTML; CSS and JavaScript
-- ⚡ Fun fact: I love cats
 -->
 
 <div align="center">
