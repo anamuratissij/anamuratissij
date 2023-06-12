@@ -1,20 +1,5 @@
-#####
+Olá, eu sou a Ana, estudande de Engenharia de software que é apaixonada por analise de dados e jogos 2D. Atualmente estou trabalhando em meu portifolio e em busca da minha primeira oportunidade de trabalho como desenvolvedora.
 
-<h2 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ana Murati</h1>
-<h3 align="center">I'm a dev&designer student, from Brazil.</h3>
-
-
-## 🙋‍♂️ About Me
-
-- 🔭 I’m currently working on **[My portifolio](https://anamurati.co/)**
-
-- 🌱 I’m currently learning **Clean Code: A Handbook of Agile Software Craftsmanship**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 📫 How to reach me **anamuratisij@gmail.com**
-
-- ⚡ Fun fact **I love cats.**
 
 ## 🚀 Languages and Tools:
 
