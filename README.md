@@ -1,5 +1,5 @@
 Estudante de Ciências de dados buscando pela primeira oportunidade na área de t.i; estudando programação e design e construindo aos poucos meu futuro como desenvolvedora, designer e cientista.
-![image](https://github.com/anamuratissij/anamuratissij/assets/97807391/c69d89c8-b0ba-44a2-b0ea-0cf92ca0c310)
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anamurati/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anamurati/" height="30" width="40" /></a>
