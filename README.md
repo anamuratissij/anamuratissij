@@ -1,16 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ana Murati-Ssij</h1>
-<h3 align="center">A passionate frontend & mobile developer from Brazil!</h3>
-
-- 🔭 I’m currently working on [A Personal Project (Organizemee)](https://github.com/anamuratissij/organizeme)
-
-- 🌱 I’m currently learning **Mobile development with Java**
-
-- 💬 Ask me about **Java, Kotlin, Angular, desenvolvimento mobile e UI Design**
-
-- 📫 How to reach me **anamuratissij@gmail.com**
-
-- ⚡ Fun fact **I love cats <3**
-
+Estudante de Ciências de dados buscando pela primeira oportunidade na área de t.i; estudando programação e design e construindo aos poucos meu futuro como desenvolvedora, designer e cientista.
+![image](https://github.com/anamuratissij/anamuratissij/assets/97807391/c69d89c8-b0ba-44a2-b0ea-0cf92ca0c310)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anamurati/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anamurati/" height="30" width="40" /></a>
